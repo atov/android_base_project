@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="font_roboto_light">fonts/Roboto-Light.ttf</string>
+    <string name="font_roboto_medium">fonts/Roboto-Medium.ttf</string>
+    <string name="font_roboto_regular">fonts/Roboto-Regular.ttf</string>
+
+    <string name="font_opensans_light">fonts/OpenSans-Light.ttf</string>
+    <string name="font_opensans_medium">fonts/OpenSans-Semibold</string>
+    <string name="font_opensans_regular">fonts/OpenSans-Regular.ttf</string>
+</resources>
